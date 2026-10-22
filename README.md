@@ -122,3 +122,14 @@ Os cenários abaixo reproduzem as descrições da SPEC 02:
 ## Considerações finais
 
 As quatro SPECS definem o escopo funcional, as regras de interface e as diretrizes técnicas do projeto. O `PROMPT.md` orienta o uso da IA com base nessas especificações. Essa abordagem ajuda a implementar os requisitos de forma rastreável e a verificar o comportamento esperado por meio dos cenários de teste.
+
+## Autores
+
+Projeto desenvolvido em dupla durante a mentoria de desenvolvimento orientado por especificações (Spec-Driven Development — SDD), com utilização de inteligência artificial como apoio ao desenvolvimento.
+
+**Desenvolvedores:**
+
+- Rafael Santos
+- Mirna Penaforte
+
+**Repositório:** Controle Acadêmico — GitHub.
